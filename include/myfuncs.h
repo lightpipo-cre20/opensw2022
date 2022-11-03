@@ -1,5 +1,5 @@
-#inndef __MYFUNCS_H__
-#defin __MYFUNCS_H__
+#ifndef __MYFUNCS_H__
+#define __MYFUNCS_H__
 
 void goo();
 void foo();
